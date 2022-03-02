@@ -18,5 +18,5 @@
     <TextField fx:id="nr1"/>
     <Label text="Numarul 2: "/>
     <TextField fx:id="nr2"/>
-    <Button text="Adunare" fx:id="button" onMousePressed="#add"/>
+    <Button text="Adunare"  onMousePressed="#add" />
 </VBox>
